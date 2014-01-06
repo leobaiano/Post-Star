@@ -50,7 +50,7 @@ if ( function_exists( 'displayPostStar' ) ) {
 ## Screenshots ##
 
 ###1. Plugin Post Star in action###
-[missing image]
+![Plugin Post Star in action](https://raw.github.com/leobaiano/Post-Star/master/screenshot-1.png)
 
 
 ## Changelog ##
